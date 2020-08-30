@@ -4,6 +4,7 @@
   "author": "Nicholas Carrigan",
   "description": "Make everything purple!",
   "manifest_version": 2,
+  "icons": { "128": "icon.png" },
   "theme": {
     "colors": {
       "frame": [47, 25, 59],
