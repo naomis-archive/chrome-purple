@@ -1,0 +1,30 @@
+{
+  "name": "chrome-purple",
+  "version": "1.0.0",
+  "author": "Nicholas Carrigan",
+  "description": "Make everything purple!",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [47, 25, 59],
+      "frame_inactive": [205, 182, 217],
+      "frame_incognito": [47, 25, 59],
+      "frame_incognito_inactive": [205, 182, 217],
+      "toolbar": [47, 25, 59],
+      "tab_text": [205, 182, 217],
+      "tab_background_text": [205, 182, 217],
+      "bookmark_text": [205, 182, 217],
+      "ntp_background": [47, 25, 59],
+      "ntp_text": [205, 182, 217],
+      "ntp_link": [205, 182, 217],
+      "ntp_link_underline": [205, 182, 217],
+      "ntp_header": [205, 182, 217],
+      "ntp_section": [47, 25, 59],
+      "ntp_section_text": [205, 182, 217],
+      "ntp_section_link": [205, 182, 217],
+      "ntp_section_link_underline": [205, 182, 217],
+      "control_background": [47, 25, 59],
+      "button_background": [205, 182, 217]
+    }
+  }
+}
