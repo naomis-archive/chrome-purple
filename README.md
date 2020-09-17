@@ -4,8 +4,7 @@ This is a purple theme for the Chrome browser.
 
 ## Live Version
 
-This page is not yet deployed.
-<!--This page is currently deployed. [View the live website.]()-->
+The theme is available on the [Chrome web store](https://chrome.google.com/webstore/detail/chrome-purple/nkfpdpjjflffnjdindfooajhmkdppbgk).
 
 ## Feedback, Bugs, and Contributions
 
