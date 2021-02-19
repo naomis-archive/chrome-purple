@@ -7,7 +7,7 @@ This is a purple theme for the Chrome browser.
 
 ## Live Version
 
-The theme is available on the [Chrome web store](https://chrome.google.com/webstore/detail/chrome-purple/nkfpdpjjflffnjdindfooajhmkdppbgk).
+This project is archived and thus is not deployed.
 
 ## Feedback and Bugs
 
